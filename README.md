@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on my DS&A
 - 🌱 I’m currently learning about AI API
+- 🍎 I graduate from Stony Brook University with a psychology degree
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chak-hoi-chan-19672046/) or my email chakhoichan@gmail.com
 - 💬 Ask me about anything!
  
