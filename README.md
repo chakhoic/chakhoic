@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="260" height="180"/>  
 </div>
 
-- 🔭 I’m currently working on my DS&A questions
+- 🔭 I’m currently working on my DS&A
 - 🌱 I’m currently learning about AI API
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chak-hoi-chan-19672046/) or my email chakhoichan@gmail.com
 - 💬 Ask me about anything!
