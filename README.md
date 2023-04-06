@@ -2,7 +2,7 @@
 <h2 align="center">Hi, I'm Chak Hoi Chan 👋</h2>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="280" height="180"/>  
+  <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" width="270" height="180"/>  
 </div>
 
 - 🔭 I’m currently working on my DS&A
