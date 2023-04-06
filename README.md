@@ -31,6 +31,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakhoic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/3oKIPcqmx1mpCOJJp6/giphy.gif" width="270"/>
+   <img src="https://media.giphy.com/media/3oKIPcqmx1mpCOJJp6/giphy.gif" width="300"/>
 </div>
 
